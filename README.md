@@ -1,6 +1,6 @@
 # Broken-expectations
 
-Repository with the final scripts from the paper Broken Expectations: population decline of a key grouper species within a 30-year-old no-take MPA in the Southwestern Atlantic.
+Repository with the final files from the paper Broken Expectations: population decline of a key grouper species within a 30-year-old no-take MPA in the Southwestern Atlantic.
 
 In this repository, you can find:
 
