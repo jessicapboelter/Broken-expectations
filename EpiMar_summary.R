@@ -389,7 +389,7 @@ rm(location_data, taxonomic_data)
 
 ##### Create useful columns #####
 
-censusSheet <- census_all
+censusSheet <- rmaccent(census_all)
 
 #Create year column by season
 censusSheet$sampling_season_year <- censusSheet$sampling_season 
